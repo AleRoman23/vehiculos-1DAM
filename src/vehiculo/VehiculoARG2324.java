@@ -1,9 +1,9 @@
 
 package vehiculo;
-
 /**
- *
- * @author 
+ * @author aleja
+ * @version 1.0
+ * @since 26-04-2024
  */
 public class VehiculoARG2324 {
 
