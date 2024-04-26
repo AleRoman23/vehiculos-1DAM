@@ -1,12 +1,15 @@
 
 package vehiculo;
-
 /**
- *
- * @author 
+ * 
+ * @author Alejandro Roman García 
  */
+
 public class Main {
-    
+    /**
+     * 
+     * @param args 
+     */
       public static void main(String[] args) {
         VehiculoARG2324 miVehiculoXXX2223;
         int stockActual;
@@ -16,7 +19,11 @@ public class Main {
         stockActual = miVehiculoXXX2223.obtenerStock();
         System.out.println("El stock actual es "+ stockActual );
     }
-
+/**
+ * 
+ * @param miVehiculoXXX2223
+ * @param cantidad 
+ */
     public static void operativaVehiculoARG2324(VehiculoARG2324 miVehiculoXXX2223, Integer cantidad) {
         try
         {
