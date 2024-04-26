@@ -119,7 +119,6 @@ public class VehiculoARG2324 {
     public double getPrecio() {
         return precio;
     }
-
     public void setPrecio(double precio) {
         this.precio = precio;
     }
